@@ -6,7 +6,7 @@ import { Pencil, Trash2,ArrowLeft  } from 'lucide-react';
 export default function Painel() {
     return (
         <main className="w-full flex flex-col  items-center h-screen gap-8">
-            <header className="w-full flex  items-center justify-between p-2 ">
+            <header className="w-full flex  items-center justify-between p-3 ">
                 <Link className="flex items-center justify-center gap-5" href='/'>
                     <ArrowLeft className="text-2xl"/>
                     <h1 className="text-2xl">Sair</h1>
