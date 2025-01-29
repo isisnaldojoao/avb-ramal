@@ -40,9 +40,7 @@ export default function Avb() {
                 className="text-3xl text-white font-bold uppercase">Escolha um ramal</h1>
             </section>
             <section
-            data-aos="fade-up"
-            data-aos-duration="1500" // Duração da animação em milissegundos (1 segundo)
-            data-aos-delay="300"
+            
             className="flex align-center justify-center">
                 <div className="w-[80%] h-auto bg-white mt-[-400px] flex flex-col rounded-xl  box-shadow p-5 align-center ">
                     <div className="flex items-center  gap-5 justify-center">
